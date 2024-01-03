@@ -1,2 +1,2 @@
 # ChatWithPDF
-A chatbot using Langchain, 
+A chatbot using Langchain
